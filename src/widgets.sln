@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "host", "host\host.csproj", "{8C4A3371-BC97-43D7-AEC5-303709E2C447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Widgets", "Widgets\Widgets.csproj", "{D74B5130-B8F6-4C6F-87E0-F90C37412F30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C4A3371-BC97-43D7-AEC5-303709E2C447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4A3371-BC97-43D7-AEC5-303709E2C447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4A3371-BC97-43D7-AEC5-303709E2C447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4A3371-BC97-43D7-AEC5-303709E2C447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D74B5130-B8F6-4C6F-87E0-F90C37412F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D74B5130-B8F6-4C6F-87E0-F90C37412F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D74B5130-B8F6-4C6F-87E0-F90C37412F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D74B5130-B8F6-4C6F-87E0-F90C37412F30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB680F00-A2B4-4C9B-AD2B-560F8F8FA618}
+	EndGlobalSection
+EndGlobal
